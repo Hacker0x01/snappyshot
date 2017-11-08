@@ -1,0 +1,2 @@
+# snappyshot
+GraphQL snapshots
